@@ -1,8 +1,6 @@
 # Task-1 (Data Analyst Internship)
 Data Cleaning and Preprocessing<br><br>
-**🎯Goal:** Clean and prepare this dataset to be ready for analysis (e.g., predict who misses appointments).
-
-
+**🎯Goal:** Clean and prepare this dataset to be ready for analysis (e.g., predict who misses appointments).<br><br>
 **💡Summary of Changes done:**
 - Removed duplicate rows.
 - Cleaned & Standardized Columns.
